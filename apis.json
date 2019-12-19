@@ -1,0 +1,102 @@
+{
+    "name": "JCDecaux Self-Service Bicycles",
+    "description": "JCDecaux, #1 worldwide in outdoor advertising, reaches more than 400 million people on the planet every day.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28266-developer-jcdecaux-com.jpg",
+    "tags": [
+        "api provider",
+        "bicycles",
+        "bikes",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/jcdecaux-selfservice-bicycles\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "JCDecaux Self-Service Bicycles",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28266-developer-jcdecaux-com.jpg",
+            "humanURL": "https:\/\/jcdecaux.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/jcdecaux-selfservice-bicycles-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/jcdecaux-selfservice-bicycles-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Change Logs",
+            "url": "https:\/\/developer.jcdecaux.com\/#\/opendata\/vls?page=changelog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/jcdecaux"
+        },
+        {
+            "type": "Email",
+            "url": "Nelson.Amaro@jcdecaux.com"
+        },
+        {
+            "type": "Email",
+            "url": "infoargentina@jcdecaux.com"
+        },
+        {
+            "type": "Email",
+            "url": "tilo.starke@jcdecaux.com"
+        },
+        {
+            "type": "Email",
+            "url": "monty.robert@jcdecaux.com"
+        },
+        {
+            "type": "Email",
+            "url": "infobrasil@jcdecaux.com"
+        },
+        {
+            "type": "Email",
+            "url": "rayane.chams@jcdecaux.com"
+        },
+        {
+            "type": "Email",
+            "url": "infochile@jcdecaux.com"
+        },
+        {
+            "type": "Email",
+            "url": "infocolombia@jcdecaux.com"
+        },
+        {
+            "type": "Email",
+            "url": "infocostarica@jcdecaux.com"
+        },
+        {
+            "type": "Email",
+            "url": "inforepublicadominicana@jcdecaux.com"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/developer.jcdecaux.com\/#\/opendata\/vls?page=getstarted"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/JCDecauxGlobal"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.jcdecaux.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/jcdecaux.com"
+        }
+    ]
+}
